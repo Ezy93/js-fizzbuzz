@@ -1,0 +1,18 @@
+.box{
+    background-color: lightslategray;
+    color: greenyellow;
+    border: 1px green solid;
+}
+
+span{
+    color: red;
+    text-decoration: underline;
+}
+
+div.row{
+    background-color: bisque;
+}
+
+.my-marg{
+    margin-right: 2px;
+}
